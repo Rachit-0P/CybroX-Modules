@@ -1,0 +1,7 @@
+admin admin/admin
+notes utils/notes
+text utils/text
+info utils/info
+system system/system
+purge utils/purge
+help core/help
